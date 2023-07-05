@@ -1,3 +1,3 @@
-export function Store() {
+export const Store = () => {
   return <h1>Store</h1>;
-}
+};
